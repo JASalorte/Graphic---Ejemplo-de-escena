@@ -2,7 +2,7 @@
 
   Distintos módelos matématicos para la creación de gráficos con OpenGL.
   
-  #Ejecución
+  # Ejecución
   
   Para ello simplemente tenemos que ejecutar Scene.exe en el directorio principal.
   
